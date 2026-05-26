@@ -18,9 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd0cabbf-6084-4ac5-a52e-53fead50bbd0" />](https://www.behance.net/gallery/165684019/Chill-Bros/modules/934397723)
-
-
+<iframe src="https://www.behance.net/embed/project/165684019?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 ---
 [![](https://komarev.com/ghpvc/?username=RisheekShukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
