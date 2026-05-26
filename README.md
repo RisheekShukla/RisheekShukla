@@ -18,6 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd0cabbf-6084-4ac5-a52e-53fead50bbd0" />
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=RisheekShukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
