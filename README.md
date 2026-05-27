@@ -1,7 +1,4 @@
-[# 👋 Welcome!
-
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Risheek+Shukla;Full+Stack+Developer;AI+%26+Backend+Enthusiast;Always+Learning+🚀](https://git.io/typing-svg)
-](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Risheek+Shukla;Full+Stack+Developer;AI+%26+Backend+Enthusiast;Always+Learning+🚀](https://git.io/typing-svg))
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hey+there%2C+I%27m+Risheek+Shukla+%F0%9F%91%8B%5CnFull+Stack+Developer+with+a+passion+for+backend+systems+%E2%9A%A1%5CnCurrently+diving+deep+into+AI+%26+intelligent+workflows+%F0%9F%A4%96%5CnDriven+by+curiosity%2C+powered+by+code+%F0%9F%9A%80%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 # 💫 About Me:
 🔭 I’m currently working on AI-powered Backend Applications & Scalable Systems<br><br>🌱 I’m currently learning Spring Boot, Microservices, Kafka, Redis, GenAI Integrations, RAG Architectures<br><br>👯 I’m looking to collaborate on Backend Engineering Projects using Java/Spring Boot<br><br>🤝 I’m looking for help with Distributed Systems & System Design<br><br>👨‍💻 All of my projects are available at https://portfolio-risheek.vercel.app/<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, Redis, LLM Integrations<br><br>📫 How to reach me 14tambit@gmail.com<br><br>📄 Know about my experiences https://portfolio-risheek.vercel.app/resume.pdf<br><br>⚡ Fun fact I enjoy solving complex backend problems more than building UIs.<br><br>
