@@ -15,8 +15,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RisheekShukla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RisheekShukla)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://github-profile-trophy.vercel.app/?username=RisheekShukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Chill Bros](https://mir-s3-cdn-cf.behance.net/project_modules/source/81bb4b165684019.640b6038d133e.gif)
