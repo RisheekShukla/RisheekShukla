@@ -22,6 +22,5 @@
 
 ![Chill Bros](https://mir-s3-cdn-cf.behance.net/project_modules/source/81bb4b165684019.640b6038d133e.gif)
 ---
-[![](https://komarev.com/ghpvc/?username=RisheekShukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
