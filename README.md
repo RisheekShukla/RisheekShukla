@@ -1,3 +1,8 @@
+# 👋 Welcome!
+
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Risheek+Shukla;Full+Stack+Developer;AI+%26+Backend+Enthusiast;Always+Learning+🚀](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered Backend Applications & Scalable Systems<br><br>🌱 I’m currently learning Spring Boot, Microservices, Kafka, Redis, GenAI Integrations, RAG Architectures<br><br>👯 I’m looking to collaborate on Backend Engineering Projects using Java/Spring Boot<br><br>🤝 I’m looking for help with Distributed Systems & System Design<br><br>👨‍💻 All of my projects are available at https://portfolio-risheek.vercel.app/<br><br>💬 Ask me about Java, Spring Boot, REST APIs, Backend Architecture, Redis, LLM Integrations<br><br>📫 How to reach me 14tambit@gmail.com<br><br>📄 Know about my experiences https://portfolio-risheek.vercel.app/resume.pdf<br><br>⚡ Fun fact I enjoy solving complex backend problems more than building UIs.<br><br>
 
